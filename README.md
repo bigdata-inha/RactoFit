@@ -9,7 +9,7 @@ Replaying with Realistic Latent Vectors in Generative Continual Learning
   ```cd Data```  
   ```python main_data.py --task disjoint --dataset cifar10 --n_tasks 10 --dir ../Archives```  
   ```python main_data.py --task disjoint --upperbound True --dataset cifar10 --n_tasks ```  
-- Prepare pre-trained model for FID   
+- Prepare pre-trained model for FID (expert)  
   download from [here](https://github.com/huyvnphan/PyTorch_CIFAR10)
 
 ### 2. Training
@@ -24,7 +24,8 @@ Replaying with Realistic Latent Vectors in Generative Continual Learning
   ```
 
 - (0%) RactoFit
-  ```python main.py  --method Ractofit_0 --dataset cifar10 --train_G True
+  ```
+  python main.py  --method Ractofit_0 --dataset cifar10 --train_G True
   ```
 
 - (0.8%) RactoFit
