@@ -1,7 +1,7 @@
 # RactoFit
 Replaying with Realistic Latent Vectors in Generative Continual Learning
 
-<img src="https://github.com/hyemin-Jeong/RactoFit/blob/main/RactoFit.png" width="900">
+<img src="https://github.com/hyemin-Jeong/RactoFit/blob/main/RactoFit.jpg" width="900">
 
 ## Running the code
 ### 1. Preliminary
