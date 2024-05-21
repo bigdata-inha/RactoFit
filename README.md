@@ -1,5 +1,5 @@
 # RactoFit
-Replaying with Realistic Latent Vectors in Generative Continual Learning
+(CoLLAs 2024) Replaying with Realistic Latent Vectors in Generative Continual Learning
 
 <img src="https://github.com/hyemin-Jeong/RactoFit/blob/main/RactoFit.jpg" width="900">
 
